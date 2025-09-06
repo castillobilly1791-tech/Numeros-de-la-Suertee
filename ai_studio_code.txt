@@ -1,0 +1,23 @@
+{
+  "name": "Lotería Dominicana - Números de la Suerte",
+  "short_name": "Números Suerte",
+  "description": "Genera 25 números de la suerte cada día para jugar en la lotería dominicana.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
